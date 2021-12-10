@@ -1,0 +1,30 @@
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.csproj.AssemblyReference.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.AssemblyInfoInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.AssemblyInfo.cs
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.csproj.CoreCompileInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\lection1.2.exe
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\lection1.2.deps.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\lection1.2.runtimeconfig.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\ref\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\bin\Debug\net6.0\lection1.2.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\ref\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection1\lection1.2\obj\Debug\net6.0\lection1.2.genruntimeconfig.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.csproj.AssemblyReference.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.AssemblyInfoInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.AssemblyInfo.cs
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.csproj.CoreCompileInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\ref\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\lection1.2.exe
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\lection1.2.deps.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\lection1.2.runtimeconfig.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\ref\lection1.2.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\bin\Debug\net6.0\lection1.2.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\lection1.2 NewRandomUser\obj\Debug\net6.0\lection1.2.genruntimeconfig.cache

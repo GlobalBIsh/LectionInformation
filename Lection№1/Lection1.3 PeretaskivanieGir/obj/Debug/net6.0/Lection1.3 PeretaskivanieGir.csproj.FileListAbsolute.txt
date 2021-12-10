@@ -1,0 +1,15 @@
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\Lection1.3 PeretaskivanieGir.exe
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\Lection1.3 PeretaskivanieGir.deps.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\Lection1.3 PeretaskivanieGir.runtimeconfig.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\Lection1.3 PeretaskivanieGir.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\ref\Lection1.3 PeretaskivanieGir.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\bin\Debug\net6.0\Lection1.3 PeretaskivanieGir.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.csproj.AssemblyReference.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.AssemblyInfoInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.AssemblyInfo.cs
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.csproj.CoreCompileInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\ref\Lection1.3 PeretaskivanieGir.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\Lection№1\Lection1.3 PeretaskivanieGir\obj\Debug\net6.0\Lection1.3 PeretaskivanieGir.genruntimeconfig.cache

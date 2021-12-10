@@ -1,0 +1,15 @@
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\StartWork003.exe
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\StartWork003.deps.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\StartWork003.runtimeconfig.json
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\StartWork003.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\ref\StartWork003.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\bin\Debug\net6.0\StartWork003.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.csproj.AssemblyReference.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.AssemblyInfoInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.AssemblyInfo.cs
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.csproj.CoreCompileInputs.cache
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\ref\StartWork003.dll
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.pdb
+C:\Users\888\Desktop\StartInformation\lection1-8.md\StartWork003\obj\Debug\net6.0\StartWork003.genruntimeconfig.cache
